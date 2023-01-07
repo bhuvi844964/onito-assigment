@@ -14,8 +14,7 @@ module.exports =  (sequelize, DataTypes)=>{
         type: DataTypes.TEXT
     },
     runtimeMinutes: {
-      type: DataTypes.INTEGER,
-      // field:'runtimeMinutes',
+      type: DataTypes.INTEGER
     },
     genres: {
         type: DataTypes.TEXT

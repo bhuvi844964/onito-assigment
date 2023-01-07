@@ -2,7 +2,7 @@
 const {Sequelize, DataTypes} = require('sequelize');
 
 const sequelize = new Sequelize(
-    'bhuvi',
+    'data',
     'root',
     '12345', {
   
